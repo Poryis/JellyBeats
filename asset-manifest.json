@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/JellyBeats/static/css/main.f968025f.css",
-    "main.js": "/JellyBeats/static/js/main.e5583370.js",
+    "main.js": "/JellyBeats/static/js/main.ff67d5a0.js",
     "static/media/ComicKings.otf": "/JellyBeats/static/media/ComicKings.ff3351fbec8978a9884e.otf",
     "index.html": "/JellyBeats/index.html",
     "main.f968025f.css.map": "/JellyBeats/static/css/main.f968025f.css.map",
-    "main.e5583370.js.map": "/JellyBeats/static/js/main.e5583370.js.map"
+    "main.ff67d5a0.js.map": "/JellyBeats/static/js/main.ff67d5a0.js.map"
   },
   "entrypoints": [
     "static/css/main.f968025f.css",
-    "static/js/main.e5583370.js"
+    "static/js/main.ff67d5a0.js"
   ]
 }
